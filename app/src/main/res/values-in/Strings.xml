@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="select_photo">Pilih foto</string>
+    <string name="from_galeri">Dari galeri</string>
+    <string name="take_picture">Ambil gambar</string>
+    <string name="cancel">Batal</string>
+    <string name="photo">Foto</string>
+    <string name="upload">Bagikan</string>
+    <string name="description">Deskripsi</string>
+    <string name="posted_at">Dibagikan pada:</string>
+    <string name="shared_photo">Gambar yang dibagikan</string>
+    <string name="login">Masuk</string>
+    <string name="icon_email">Ikon email</string>
+    <string name="email">Email</string>
+    <string name="icon_lock">Ikon gembok</string>
+    <string name="password">Kata sandi</string>
+    <string name="or_sign_in">atau Daftar akun</string>
+    <string name="register">Daftar</string>
+    <string name="person">Orang</string>
+    <string name="name">Nama</string>
+    <string name="confirm_password">Konfirmasi kata sandi</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="flat_illustration">Flat illustration</string>
+    <string name="welcome_to_mystoryapp">Selamat Datang di MyStoryApp</string>
+
+    <string name="post_as">Bagikan cerita sebagai </string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="input_picture">Silahkan masukkan gambar</string>
+    <string name="input_des">Silahkan masukkan deskripsi</string>
+    <string name="share_story">Bagikan ceritamu</string>
+    <string name="detail_title">Cerita %1$s</string>
+
+
+    <string name="you_sure">Anda yakin?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="input_email">Masukkan email disini</string>
+    <string name="input_pass">Masukkan password disini</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">Password tidak valid</string>
+
+    <string name="email_required">Email diperlukan</string>
+    <string name="name_required">Nama diperlukan</string>
+    <string name="password_required">Password diperlukan</string>
+    <string name="cpass_required">Confirm password diperlukan</string>
+    <string name="pass_length">Password harus minimal 6 huruf</string>
+    <string name="pass_not_match">Password tidak cocok</string>
+
+    <string name="timeout">Timeout!! coba lagi nanti</string>
+    <string name="email_taken">Email sudah terdaftar</string>
+    <string name="unauthorized">Email atau password salah</string>
+    <string name="user_created">Akun berhasil dibuat</string>
+    <string name="success_login">Berhasil login. Pesan:</string>
+    <string name="error_message">Pesan error :</string>
+    <string name="message">Pesan  :</string>
+    <string name="success_load">Berhasil memuat. Pesan:</string>
+    <string name="error_load">Gagal memuat. Pesan:</string>
+    <string name="see_password">Lihat password</string>
+    <string name="floatin_button">Floating button</string>
+    <string name="ini_splash">ini splash screen</string>
+    <string name="no_data_icon">Ikon tidak ada data</string>
+    <string name="no_data">Tidak ada data</string>
+
+    <string name="package_name">com.example.storyapp</string>
+</resources>
